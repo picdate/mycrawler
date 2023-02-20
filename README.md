@@ -1,2 +1,1 @@
-# mycrawler
-python爬虫
+一个爬取xxxswitch游戏数据的python爬虫
